@@ -25,7 +25,7 @@
 }
 body{
 
-    background-image: url('https://github.com/Mahin2903/module_3/blob/main/beautiful-photorealistic-moon.jpg');
+    background-image: url('/beautiful-photorealistic-moon.jpg');
     background-repeat: no-repeat;
     background-position: center;
 
